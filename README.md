@@ -27,7 +27,15 @@ The Worker nodes has the following services running on each of them:
 
   - Kubelet - Its servers the agent and is in constant communication with kube-api-server
   - Kube-Proxy - In charge of maintaining network rules within the node. This enables communication between pods both inside and outside of the cluster.
-  - Container runtime - Is the Engine responsible for running container work loads. We used containers in this project.
+  - Container runtime - This is the Engine responsible for running container work loads. We used containers in this project.
+  
+  ![image](https://user-images.githubusercontent.com/50416701/204163978-06a5aabc-ee65-47cd-b560-cc89d5b08c5c.png)
+
+
+
+
+![image](https://user-images.githubusercontent.com/50416701/204164145-3dfd0da6-e18c-4a0e-b98a-fcc9e4e1ed54.png)
+
 
 
 
